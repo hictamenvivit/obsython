@@ -14,6 +14,6 @@ NOTE2 = Note(
 )
 
 
-def test_note():
+def test_note() -> None:
     assert NOTE.meta["foo"] == "bar"
     assert NOTE2.meta["type"] == "atHome"

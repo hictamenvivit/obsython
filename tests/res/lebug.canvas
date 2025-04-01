@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f45e3e8be4c28a1a","type":"file","file":"fastbear-nouvelle/Un jour à Clichy.md","x":-239,"y":-335,"width":1005,"height":416},
+		{"id":"d3109794df3a0156","type":"file","file":"fastbear-nouvelle/Un insecte.md","x":-312,"y":-827,"width":992,"height":400},
+		{"id":"da1b3376b8125200","type":"file","file":"fastbear-nouvelle/Audience.md","x":-146,"y":149,"width":912,"height":400},
+		{"id":"579f586dfee39b45","x":-146,"y":640,"width":847,"height":400,"type":"file","file":"fastbear-nouvelle/Audience de Yacouba.md"}
+	],
+	"edges":[]
+}
